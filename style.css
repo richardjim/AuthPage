@@ -1,0 +1,16 @@
+body {
+  background-color: whitesmoke;
+  margin: 0px;
+  padding: 0px;
+}
+
+.card-image {
+ text-align: center;
+  border: none;
+  padding: 30px;
+  box-shadow: 10px 5px 10px #e3e6e7;
+}
+
+h5 a{
+    margin-left: 5px;
+}
